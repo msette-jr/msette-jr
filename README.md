@@ -14,20 +14,12 @@ Meu foco atual é entender como transformar modelos de IA em **ferramentas útei
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode" height="48" />
-  <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" height="48" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
+  <img src="./assets/icons/openai.svg" alt="OpenAI" height="48" />
   <img src="./assets/icons/mcp.svg" alt="MCP" height="48" />
   <img src="./assets/icons/openclaw.svg" alt="OpenClaw" height="48" />
   <img src="./assets/icons/agno.svg" alt="Agno" height="48" />
 </p>
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
 
 ## 📌 Projetos
 
