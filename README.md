@@ -30,16 +30,6 @@ Meu foco atual é entender como transformar modelos de IA em **ferramentas útei
 - **[Agenda](https://github.com/msette-jr/Agenda)** — aplicativo desenvolvido em Kotlin.
 - **[Engenharia de Software](https://github.com/msette-jr/Eng_Soft)** — estudos, documentação e boas práticas.
 
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msette-jr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msette-jr&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🧠 Em construção
 
 Este perfil registra minha evolução prática em tecnologia, com projetos voltados para **IA aplicada, automação, dados, agentes inteligentes e soluções digitais**.
