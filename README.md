@@ -15,7 +15,7 @@ Meu foco atual é entender como transformar modelos de IA em **ferramentas útei
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode" height="48" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
-  <img src="./assets/icons/openai.svg" alt="OpenAI" height="48" />
+  <img src="assets/icons/openai.svg" alt="OpenAI" height="48" />
   <img src="./assets/icons/mcp.svg" alt="MCP" height="48" />
   <img src="./assets/icons/openclaw.svg" alt="OpenClaw" height="48" />
   <img src="./assets/icons/agno.svg" alt="Agno" height="48" />
